@@ -1,4 +1,4 @@
-# Tech Skills Log
+# Tech Study Log
 
 This repository tracks my ongoing technical development across coding, data, backend engineering, analytics engineering, SQL, Python, and related skills.
 
