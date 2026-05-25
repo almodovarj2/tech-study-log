@@ -9,4 +9,11 @@
 - **Skill:** Backend development
 - **Resource:** Boot.dev
 - **Activity:** Completed Boot.dev lesson.
-- **Takeaway:** Refreshed my Python fundamentals. Functions, scope, arguments, unit testing.
+- **Notes:** Refreshed my Python fundamentals. Functions, scope, arguments, unit testing.
+
+#### 2026-05-25
+- **Time:** 18 minutes
+- **Skill:** Fullstack development
+- **Resource:** Fullstack Open - University of Helsinki
+- **Activity:** Completed Section 1
+- **Notes:** Refresher on JavaScript, starting first set of exercises. 
