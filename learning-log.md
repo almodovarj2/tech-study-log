@@ -24,3 +24,10 @@
 - **Resource:** Boot.dev
 - **Activity:** Continued working through Python section
 - **Notes:** More refresh. Working on binary and bitwise logic, debugging, and writing unit tests.
+
+#### 2026-05-27
+- **Time:** 30 minutes
+- **Skill:** Python Programming
+- **Resource:** Python Programming MOOC - University of Helsinki
+- **Activity:** Course Section 1
+- **Notes:** Mostly refresh, getting used to writing functions again, and solving programming problems while under constraints.
