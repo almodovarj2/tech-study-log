@@ -31,3 +31,11 @@
 - **Resource:** Python Programming MOOC - University of Helsinki
 - **Activity:** Course Section 1
 - **Notes:** Mostly refresh, getting used to writing functions again, and solving programming problems while under constraints.
+
+#### 2026-05-28
+- **Time:** 25 minutes
+- **Skill:** Backend development
+- **Resource:** Boot.dev
+- **Activity:** Continued working through Python section
+- **Notes:** Finished section 7 "Comparisons". Boolean logic, conditionals, etc.
+
