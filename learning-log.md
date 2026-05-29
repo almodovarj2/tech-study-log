@@ -8,7 +8,7 @@
 - **Time:** 25 minutes
 - **Skill:** Backend development
 - **Resource:** Boot.dev
-- **Activity:** Completed Boot.dev lesson.
+- **Activity:** Course 1. Learn to Code in Python
 - **Notes:** Refreshed my Python fundamentals. Functions, scope, arguments, unit testing.
 
 #### 2026-05-25
@@ -22,7 +22,7 @@
 - **Time:** 25 minutes
 - **Skill:** Backend development
 - **Resource:** Boot.dev
-- **Activity:** Continued working through Python section
+- **Activity:** Course 1. Learn to Code in Python
 - **Notes:** More refresh. Working on binary and bitwise logic, debugging, and writing unit tests.
 
 #### 2026-05-27
@@ -36,6 +36,14 @@
 - **Time:** 25 minutes
 - **Skill:** Backend development
 - **Resource:** Boot.dev
-- **Activity:** Continued working through Python section
+- **Activity:** Course 1. Learn to Code in Python
 - **Notes:** Finished section 7 "Comparisons". Boolean logic, conditionals, etc.
+
+#### 2026-05-29
+- **Time:** 41 minutes
+- **Skill:** Backend development
+- **Resource:** Boot.dev
+- **Activity:** Course 1. Learn to Code in Python
+- **Notes:** Finished section 8 "Loops". Worked on while loops and for loops. Continue and break statemetns, etc.
+
 
