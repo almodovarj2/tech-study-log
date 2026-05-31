@@ -44,6 +44,11 @@
 - **Skill:** Backend development
 - **Resource:** Boot.dev
 - **Activity:** Course 1. Learn to Code in Python
-- **Notes:** Finished section 8 "Loops". Worked on while loops and for loops. Continue and break statemetns, etc.
+- **Notes:** Finished section 8 "Loops". Worked on while loops and for loops. Continue and break statements, etc.
 
-
+#### 2026-05-31
+- **Time:** 63 minutes
+- **Skill:** Backend development
+- **Resource:** Boot.dev
+- **Activity:** Course 1. Learn to Code in Python
+- **Notes:** Finished section 9 "Lists". Indexing, slicing, iterating through lists, and more.
