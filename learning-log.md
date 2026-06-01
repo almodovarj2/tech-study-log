@@ -59,3 +59,12 @@
 - **Resource:** Python Programming MOOC - University of Helsinki
 - **Activity:** Course Section 1
 - **Notes:** More refresh. Practice solving coding problems.
+
+### June
+
+#### 2026-06-01
+- **Time:** 33 minutes
+- **Skill:** Backend development
+- **Resource:** Boot.dev
+- **Activity:** Course 1. Learn to Code in Python
+- **Notes:** Finished section 10 & 11: "Dictionaries" & "Sets".
