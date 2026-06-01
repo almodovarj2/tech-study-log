@@ -54,8 +54,8 @@
 - **Notes:** Finished section 9 "Lists". Indexing, slicing, iterating through lists, and more.
 
 #### 2026-05-31
-Time: 20 minutes
-Skill: Python Programming
-Resource: Python Programming MOOC - University of Helsinki
-Activity: Course Section 1
-Notes: More refresh. Practice solving coding problems.
+- **Time:** 20 minutes
+- **Skill:** Python Programming
+- **Resource:** Python Programming MOOC - University of Helsinki
+- **Activity:** Course Section 1
+- **Notes:** More refresh. Practice solving coding problems.
